@@ -1,1 +1,12 @@
-# este repositorio conrtem todos os exercicios que fiz enquanto estudei na escola de tecnologia trybe. 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify premium </title>
+</head>
+<body>
+    oi
+</body>
+</html>
