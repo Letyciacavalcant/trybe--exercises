@@ -1,15 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spotify premium </title>
-</head>
-<body>
-    oi
-</body>
-
 </html>
 <h2 align="left">Oi, eu meu nome é Leticia</h2>
 
@@ -53,3 +42,4 @@
 <img src="https://raw.githubusercontent.com/Letyciacavalcant/Letyciacavalcant/output/snake.svg" alt="Snake animation" />
 
 ###
+
