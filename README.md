@@ -1,6 +1,6 @@
 
 </html>
-<h2 align="left">Oi, eu meu nome é Leticia</h2>
+<h2 align="left">Oi, eu meu nome é Letycia</h2>
 
 ###
 
@@ -42,4 +42,5 @@
 <img src="https://raw.githubusercontent.com/Letyciacavalcant/Letyciacavalcant/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
