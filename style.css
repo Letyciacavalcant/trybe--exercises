@@ -137,16 +137,67 @@ width: 25px;
    display: flex;
   }
 
-  .plan-style {
-    background-color: white;
-box-shadow: 1px 1px 5px rgb (141, 141, 141);
-border-radius: 7px;
-padding: 10px;
-display: flex;
-flex-direction: column;
-align-items: flex-start
-height: 500px;
-max-width: 180px;
-font-size: 14px;
- }
+ .plan-style {
+  background-color: white;
+  box-shadow: 1px 1px 5px rgb(141, 141, 141);
+  border-radius: 7px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 600px;
+  max-width: 180px;
+  font-size: 15px;
+}
 
+.free-month {
+  background-color: rgb(13, 144, 234);
+  color: white;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+.one-time-payment {
+  color: rgb(13, 144, 234);
+  border:1 px solid rgb(13, 144, 234);
+  border: radius 2px;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 10px
+    font-weight: 900;
+}
+
+.price {
+  text-align: left;
+}
+
+.plan-style hr {
+  width: 100%;
+  margin: 10px 0;
+}
+
+.plan-style ol {
+  list-style-type: none;     
+  padding-left: 0;           
+  margin-top: 20px;
+  font-size: 15px;
+  text-align: left;
+}
+
+.plan-style ol li::before {
+  content: "✔️ ";            
+  margin-right: 10px;
+}
+
+ .btn-comece-agora{
+ background-color: black;
+  color: white;
+  padding: 15px 35px;
+  border: 1px solid black;
+  margin: auto;
+  }
+
+  .conditions, .conditions a {
+    color: grey;
+    font-size: 10px;
+    }
